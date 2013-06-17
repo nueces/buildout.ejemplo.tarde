@@ -1,0 +1,4 @@
+.installed.cfg
+*.pyc
+*.pyo
+*.swp
