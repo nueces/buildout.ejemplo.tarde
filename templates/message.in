@@ -1,0 +1,8 @@
+Querido ${:ganador},
+
+Ud gano la loteria de Telesur que ofrece un premio de ${loteria:premio}
+
+Saludos atte.
+${loteria:firma}
+
+
