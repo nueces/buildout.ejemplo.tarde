@@ -6,3 +6,5 @@ bin/
 lib/
 local/
 include/
+var/
+parts/
